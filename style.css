@@ -74,3 +74,17 @@ h2 {
   justify-content: space-between;
   color: #000000;
 }
+.feature-kitten {
+  padding-top: 60px;
+  background-image: url("img/2.webp");
+}
+
+.feature-cat {
+  padding-top: 60px;
+  background-image: url("img/3.webp");
+}
+
+.feature-train {
+  padding-top: 60px;
+  background-image: url("img/4.webp");
+}
