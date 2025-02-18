@@ -88,3 +88,9 @@ h2 {
   padding-top: 60px;
   background-image: url("img/4.webp");
 }
+button {
+  background-color: #ff000093;
+  border-radius: 20px;
+  width: 480px;
+  height: 40PX;
+}
